@@ -1,0 +1,4 @@
+int number = 1
+float a = 2.3 , v = 2.4
+%%
+print v
